@@ -4,5 +4,7 @@ kheer
 pasta
 chicken
 
+Beans
+curry
 
 Thank you !
