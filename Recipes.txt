@@ -7,4 +7,7 @@ chicken
 Beans
 curry
 
+dal
+jeera rice
+
 Thank you !
